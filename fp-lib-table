@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name inv_hdr)(type KiCad)(uri ${KIPRJMOD}/inv_hdr.pretty)(options "")(descr ""))
+  (lib (name even_odd_proto)(type KiCad)(uri ${KIPRJMOD}/even_odd_proto.pretty)(options "")(descr ""))
+  (lib (name empty_hdr)(type KiCad)(uri ${KIPRJMOD}/empty_hdr.pretty)(options "")(descr ""))
+  (lib (name mouse_bite)(type KiCad)(uri ${KIPRJMOD}/mouse_bite.pretty)(options "")(descr ""))
+)
