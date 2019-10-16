@@ -1,4 +1,4 @@
-16127575794424364
+16152558775312074
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72211,10 +72211,122 @@ varistor SIOV
 0
 2
 2
-inv_hdr
-PinHeader_2x20_P2.54mm_Horizontal_Mirrored
-Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
-Through hole angled pin header THT 2x20 2.54mm double row
+lib
+Boom_Precision_HDMI-001
+
+
 0
-40
-40
+23
+20
+lib
+FC-B1010RGBT-HG
+
+
+0
+4
+4
+lib
+FH26-45S-0.3SHW
+
+FPC connector
+0
+47
+46
+lib
+Korean_Hroparts_K3_1296S
+
+
+0
+7
+4
+lib
+Lattice_caBGA-381_17.0x17.0mm_Layout20x20_P0.8mm_Ball0.4mm_Pad0.4mm_NSMD
+Lattice caBGA-381 footprint for ECP5 FPGAs, based on http://www.latticesemi.com/view_document?document_id=213
+BGA 381 0.8
+0
+381
+381
+lib
+Lattice_caBGA-381_17.0x17.0mm_Layout20x20_P0.8mm_Ball0.4mm_Pad0.6mm_SMD
+Lattice caBGA-381 footprint for ECP5 FPGAs, based on http://www.latticesemi.com/view_document?document_id=213
+BGA 381 0.8
+0
+381
+381
+lib
+Murata_1212
+
+
+0
+2
+2
+lib
+R6GHBHC-M01
+
+
+0
+6
+6
+lib
+RPM973-H11
+IrDA transceiver, side emittor
+IrDA
+0
+8
+8
+lib
+SWPA25xx
+
+
+0
+2
+2
+lib
+SWPA60xx
+
+
+0
+2
+2
+lib
+Seiko_fp_crystal_SMD_7050-4Pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+lib
+badge_art
+
+
+0
+0
+0
+lib
+battery_holder_1xAA
+
+
+0
+2
+2
+lib
+mouse_bite_5
+
+
+0
+0
+0
+lib
+mouse_bite_6
+
+
+0
+0
+0
+lib
+no_soldermask_square
+
+
+0
+0
+0
