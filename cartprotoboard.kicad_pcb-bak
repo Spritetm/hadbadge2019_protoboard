@@ -62,7 +62,7 @@
     (aux_axis_origin 102 84)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x310fc_ffffffff)
+      (layerselection 0x210a8_7fffffff)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -83,11 +83,11 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "prod/gerber"))
+      (outputdirectory "prod/"))
   )
 
   (net 0 "")
